@@ -1,0 +1,13 @@
+{
+  "name": "pl_je_ng_fb",
+  "version": "1.0.0",
+  "description": "expense tracker",
+  "main": "index.js",
+  "scripts": {
+     "start":"http-server",
+    "test": "live-server --port=8500 --open=./public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
